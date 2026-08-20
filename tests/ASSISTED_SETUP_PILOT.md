@@ -2,6 +2,8 @@
 
 Use this test with a real participant and a trusted helper. Do not record the participant's private details in this public repository.
 
+When evidence returns from an assisted or seeded-container pilot, review it through [the seeded-container pilot review framework](../design/SEEDED_CONTAINER_PILOT_REVIEW.md) before proposing changes to the public bootstrap.
+
 ## Observe
 
 - Where did the participant hesitate?
@@ -18,6 +20,8 @@ Use this test with a real participant and a trusted helper. Do not record the pa
 ## Record only public design findings
 
 After the pilot, add only generalized, non-identifying findings to a review or issue. Participant-specific state remains in the participant's private repository or other appropriate source system.
+
+Separate direct observations, participant reports, inferences, design implications, and confirmed corrections. Do not treat inferred meaning as established participant state.
 
 ## Passing outcome
 

@@ -12,6 +12,7 @@ This repository contains universal public bootstrap doctrine and templates. It i
 - Ordinary bootstrap uses the direct GitHub plugin or connector, never `gh` CLI.
 - Keep the human's authority explicit. Technical access is not semantic authority.
 - Treat accessibility as a default design constraint, not an optional accommodation.
+- When reviewing an assisted or seeded-container pilot, read [`design/SEEDED_CONTAINER_PILOT_REVIEW.md`](design/SEEDED_CONTAINER_PILOT_REVIEW.md) before proposing bootstrap changes.
 
 ## Change standard
 
