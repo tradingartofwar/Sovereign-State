@@ -2,6 +2,8 @@
 
 The dashboard is a projection of living state, not the source of truth. Do not build an attractive empty shell.
 
+Before building or materially changing a dashboard, read [Dashboard Integrity](../doctrine/DASHBOARD_INTEGRITY.md).
+
 ## Dashboard readiness gate
 
 GPT may offer the dashboard when all of these are established:
@@ -12,7 +14,9 @@ GPT may offer the dashboard when all of these are established:
 - at least three meaningful trajectories are active;
 - each trajectory has current reality, next movement, owner, and a return date or trigger;
 - at least one real date, appointment, deadline, routine, or review window exists;
-- at least one later update or correction has been processed successfully.
+- at least one later update or correction has been processed successfully;
+- the authoritative source for the dashboard is named;
+- active trajectories can be reconciled as visible or explicitly excluded.
 
 Record the evidence in `state/BOOTSTRAP_STATE.md`. Do not infer readiness from file count alone.
 
@@ -36,7 +40,23 @@ Keep the first version small:
 - Projects and interests
 - Possibilities
 - Recently changed
+- Source and honest “as of” date
 - A simple explanation of how to tell GPT what changed
+
+Once the person accepts the dashboard, preserve its route, field names, and basic layout. Propose material display changes instead of silently replacing the accepted view.
+
+## Source-to-projection check
+
+For every dashboard update:
+
+1. update the authoritative private state;
+2. generate or update the dashboard from that state;
+3. confirm that every active trajectory is visible or explicitly excluded;
+4. keep reported, inferred, stale, and unverified information distinguishable;
+5. retire established completions from present attention while preserving meaningful history;
+6. verify that corrections appear in the accepted dashboard.
+
+A manual dashboard-only edit is not durable state. A display problem must not alter or endanger the source.
 
 ## Calendar meanings
 
