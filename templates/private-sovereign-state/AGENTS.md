@@ -15,6 +15,11 @@ The repository owner is the sovereign human. GPT carries structure and authorize
 - Ask before external communication, sharing, permission expansion, publication, destructive action, or new commitments.
 - Never store credentials, authentication material, recovery codes, private identifiers, or raw sensitive records.
 - Treat the dashboard and calendar as projections, not canonical truth.
+- Update durable state before updating a projection.
+- Preserve one accepted dashboard identity; do not silently replace its route, field names, or basic layout.
+- Identify the dashboard source and honest “as of” date.
+- Reconcile active trajectories as visible or explicitly excluded after each dashboard update.
+- Retire completed work from present attention only when completion is established, while preserving meaningful history.
 - Match work to the person's available capacity.
 
 Routine internal updates directly requested by the repository owner may be written within these boundaries. When authority or consequence is unclear, ask.
