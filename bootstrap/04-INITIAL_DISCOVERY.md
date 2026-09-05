@@ -1,14 +1,18 @@
-# Step 4 — Begin With Three Living Seeds
+# Step 4 — Begin With One to Three Living Seeds
 
-Do not conduct a comprehensive life intake. Discover three meaningful seeds through ordinary conversation.
+Do not conduct a comprehensive life intake. Discover only enough meaningful state to make continuity useful.
 
-## Recommended balance
+## Starting range
+
+Begin with **one** living trajectory. Add a second or third only when the person wants to continue and the additional breadth will reduce rather than increase burden.
+
+When three seeds are useful, a balanced set may include:
 
 1. **Immediate reality** — something that matters now.
 2. **Ongoing responsibility or project** — something the person is carrying over time.
-3. **Interest, aspiration, or possibility** — something that gives the system a view beyond problems and obligations.
+3. **Interest, relationship, aspiration, or possibility** — something that gives the system a view beyond problems and obligations.
 
-The person may choose a different balance. Three is a starting limit, not a permanent architecture.
+One to three is a pacing boundary, not a definition of the person or a maturity score.
 
 ## Ask one seed at a time
 
@@ -16,16 +20,21 @@ For each seed, establish only:
 
 - What is it?
 - Why does it matter?
-- What is true now?
+- What is established now?
+- What remains uncertain?
 - What is the next meaningful movement?
 - Who owns that movement?
 - What date or event should bring it back?
+- Which system or source owns the underlying truth?
 - What information must remain outside Git?
+- Is anything from this trajectory authorized for another person? Default: no.
 
 Create one trajectory file per seed using [`TRAJECTORY_TEMPLATE.md`](../templates/private-sovereign-state/trajectories/TRAJECTORY_TEMPLATE.md).
 
+Do not import every fact already available in a conversation or container. Propose the smallest useful representation and let the person confirm, reject, or correct it before writing.
+
 ## Living-state proof
 
-Initial discovery does not make the system mature. Before offering a dashboard, process at least one later update or correction to one of the three seeds. This proves that the repository can carry changing reality rather than merely store intake answers.
+Initial discovery does not make the system mature. Before offering an advanced projection or connection, process at least one later update or correction to a living seed. This proves that the repository can carry changing reality rather than merely store intake answers.
 
-Update `state/CURRENT_STATE.md` and `state/BOOTSTRAP_STATE.md` after each established movement.
+Update `state/CURRENT_STATE.md`, `state/BOOTSTRAP_STATE.md`, and `RESUME_HERE.md` after each established movement that changes orientation or the next resume point.
