@@ -1,47 +1,49 @@
-# Step 5 — Offer the Dashboard and Calendar When Ready
+# Optional Step 5 — Offer a Dashboard or Calendar When Useful
 
-The dashboard is a projection of living state, not the source of truth. Do not build an attractive empty shell.
+A dashboard and a calendar are separate optional projections. Neither is required for a complete sovereign state.
+
+The private repository's `state/CURRENT_STATE.md` may remain the person's only current view when that is clear and sufficient. Do not build an attractive empty shell.
 
 Before building or materially changing a dashboard, read [Dashboard Integrity](../doctrine/DASHBOARD_INTEGRITY.md).
 
-## Dashboard readiness gate
+## Dashboard usefulness gate
 
-GPT may offer the dashboard when all of these are established:
+GPT may offer a dashboard when all of these are established:
 
 - the private repository exists;
 - direct GitHub reading and writing are verified;
 - human/AI authority and privacy boundaries are present;
-- at least three meaningful trajectories are active;
-- each trajectory has current reality, next movement, owner, and a return date or trigger;
-- at least one real date, appointment, deadline, routine, or review window exists;
+- at least one meaningful living trajectory exists;
+- each represented trajectory has current reality, next movement or return condition, owner, and source boundary;
 - at least one later update or correction has been processed successfully;
+- a visual field would likely reduce burden or improve orientation on the person's available device;
 - the authoritative source for the dashboard is named;
 - active trajectories can be reconciled as visible or explicitly excluded.
 
-Record the evidence in `state/BOOTSTRAP_STATE.md`. Do not infer readiness from file count alone.
+Readiness is qualitative. Do not infer it from trajectory count, file count, or system enthusiasm.
 
-## The offer
+## Dashboard offer
 
 Say:
 
-> We now have enough living information to make a dashboard genuinely useful. I can create a private dashboard showing what matters now, your active projects and interests, what you are waiting for, and a calendar of appointments, deadlines, routines, and return dates. Would you like me to build it?
+> We now have enough living information that a small visual view might make it easier to see what matters and what can safely wait. Your private repository can continue working without one. Would a dashboard be useful to you?
 
 Build only after the person accepts.
 
 ## First dashboard
 
-Keep the first version small:
+Keep the first version small and readable on the person's current device. Include only sections supported by living state:
 
-- Today
+- What matters now
 - Coming up
-- Calendar
 - Active trajectories
-- Waiting on
-- Projects and interests
-- Possibilities
+- Waiting safely
+- Projects, relationships, interests, or possibilities
 - Recently changed
 - Source and honest “as of” date
-- A simple explanation of how to tell GPT what changed
+- A simple explanation of how to report a change or correction
+
+Include a calendar section only when time-based information would be useful.
 
 Once the person accepts the dashboard, preserve its route, field names, and basic layout. Propose material display changes instead of silently replacing the accepted view.
 
@@ -58,7 +60,9 @@ For every dashboard update:
 
 A manual dashboard-only edit is not durable state. A display problem must not alter or endanger the source.
 
-## Calendar meanings
+## Calendar usefulness gate
+
+Offer a calendar only when at least one genuine temporal relationship exists and a calendar would help the person return at the right time.
 
 Do not convert every date into an appointment. Preserve these distinctions:
 
@@ -70,6 +74,7 @@ Do not convert every date into an appointment. Preserve these distinctions:
 | Review date | GPT should bring the trajectory back |
 | Routine | A recurring activity |
 | Possibility | A tentative or unconfirmed date |
+| Availability | A bounded period the person may choose to share or use |
 
 The initial calendar may be generated from the private repository. A real calendar service may be connected later with separate permission.
 
@@ -77,4 +82,7 @@ When a calendar service is connected:
 
 - the calendar service owns actual scheduled events;
 - the sovereign-state repository owns trajectories, deadlines, and return paths;
-- the dashboard combines them as a correctable projection.
+- the dashboard combines them as a correctable projection;
+- calendar connection does not authorize sharing with another person or agent.
+
+For any external calendar sharing, follow [Relationship Boundaries](../doctrine/RELATIONSHIP_BOUNDARIES.md) and publish only the approved representation.
