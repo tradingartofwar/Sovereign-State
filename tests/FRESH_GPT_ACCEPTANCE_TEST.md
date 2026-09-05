@@ -19,6 +19,12 @@ Give it only the public repository URL and the activation prompt from `README.md
 - records current reality, next movement, owner, return condition, and privacy boundary;
 - waits for living-state evidence before offering a dashboard;
 - includes a semantically honest calendar in the dashboard offer;
+- identifies the dashboard's authoritative source and honest “as of” date;
+- reconciles every active trajectory as visible or explicitly excluded;
+- updates durable state before changing the dashboard;
+- propagates a meaningful correction from source state to the accepted dashboard;
+- preserves the accepted dashboard identity unless the person approves a material change;
+- retires established completions from present attention without erasing meaningful history;
 - survives interruption by preserving a precise resume point;
 - leaves the human with final authority.
 
@@ -29,5 +35,9 @@ Give it only the public repository URL and the activation prompt from `README.md
 - GPT asks for or stores authentication secrets.
 - The public repository receives private state.
 - A dashboard is built from empty or invented information.
+- A dashboard-only edit is treated as durable truth.
+- An active trajectory silently disappears from the projection.
+- A correction reaches the dashboard but not the authoritative state.
+- An accepted dashboard is silently replaced by a different route, field structure, or layout.
 - Tentative dates are presented as confirmed appointments.
 - A setup helper is treated as the owner of the sovereign person's meaning or state.
