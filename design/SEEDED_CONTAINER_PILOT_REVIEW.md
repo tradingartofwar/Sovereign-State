@@ -9,16 +9,17 @@ This is a public design document. Never place participant names, raw container m
 A seeded-container bootstrap can convert existing context into person-owned, durable, correctable state:
 
 1. GPT observes user-authorized source context.
-2. GPT proposes an attention map: the few trajectories that presently demand the person's attention.
+2. GPT proposes an attention map: one to three trajectories that presently demand the person's attention.
 3. The person confirms, rejects, or corrects the interpretation.
 4. GPT writes only confirmed, source-safe state to the person's private Git repository.
 5. The state expands over time through ordinary work and correction.
-6. A dashboard provides perception when the state is mature enough.
-7. A calendar provides an honest path of return to appointments, deadlines, plans, reviews, routines, and possibilities.
+6. A dashboard may provide perception when the state is mature enough and the person wants it.
+7. A calendar may provide temporal return when genuine dates exist.
+8. A relationship channel may carry an approved, bounded representation when a real recipient and purpose exist.
 
-This is a hypothesis to test, not permission to import everything.
+This is a hypothesis to test, not permission to import everything or require every capability.
 
-## Design observations to examine
+## Design observations
 
 ### Conversion, not collection
 
@@ -28,7 +29,7 @@ A useful bootstrap should reduce cognitive burden. A large unfiltered data dump 
 
 ### Attention is the organizing principle
 
-The initial trajectories should reflect what most demands the person's attention, not an arbitrary quota or a list of everything known. Three may be a useful starting size, but it is a pacing device, not a definition of the person.
+The initial trajectories should reflect what most demands the person's attention, not an arbitrary quota or a list of everything known. One is enough to begin. Three may be a useful starting limit, but it is a pacing device, not a definition of the person.
 
 ### Two bootstrap extremes
 
@@ -38,27 +39,38 @@ A participant with a rich seeded container may move quickly: selectively interpr
 
 The public system should support both without making the first participant feel behind or the second repeat what GPT already knows.
 
-### Git, dashboard, and calendar have different jobs
+### State, projections, and relationships have different jobs
 
-- Git provides durable, inspectable, versioned memory and correction.
-- The dashboard provides present-tense perception across living trajectories.
-- The calendar provides temporal return.
+- The private repository provides durable, inspectable, versioned memory and correction.
+- A dashboard provides present-tense perception across living trajectories.
+- A calendar provides temporal return.
+- A relationship channel carries only an authorized representation for a declared purpose and recipient.
+
+These are separate capabilities. None should be a mandatory rung on one ladder.
 
 A dashboard should not appear merely because a numeric threshold was reached. It should appear when the state is coherent enough that a visual surface will lower burden and support decisions.
 
-### Personal and organizational truth must remain separate
+### The repository is not the person or the agent
+
+The private repository is one component of a human–AI operating configuration. The person, GPT runtime, tools, durable state, projections, relationship channels, and protected source systems remain distinguishable.
+
+This prevents loss of one runtime or interface from being confused with loss of the person's state, and prevents a stored representation from being treated as the person.
+
+### Personal, organizational, and relationship truth must remain separate
 
 The person's private repository owns the person's state.
 
 An organizational system owns shared operational truth.
 
-A dashboard may combine authorized projections from both, but convenience must not silently turn the personal repository into a shadow organizational database or the organizational system into an owner of the person's life.
+A relationship representation carries only what its purpose, audience, and authorization permit.
+
+A dashboard may combine authorized projections from more than one source, but convenience must not silently turn the personal repository into a shadow organizational database, the organizational system into an owner of the person's life, or a relationship channel into blanket access.
 
 ### Authority without unauthorized action
 
 The intended sequence is:
 
-> observe → interpret → propose → human authorizes or corrects → implement → Git preserves provenance and correctability
+> observe → interpret → propose → human authorizes or corrects → implement → verify → preserve provenance and correctability
 
 Access to context or a repository is not authority to decide what matters, expose private material, or make consequential commitments.
 
@@ -72,48 +84,66 @@ If every seeded participant needs a long custom activation prompt, the doctrine 
 
 ### This may become a federated network
 
-Person-owned sovereign-state repositories can act as independent nodes. They may share deliberately authorized projections without surrendering ownership of their underlying state. Interoperability should preserve consent, provenance, reversibility, and clear source ownership.
+Person-owned sovereign-state repositories can act as independent nodes. They may share deliberately authorized projections without surrendering ownership of their underlying state. Interoperability should preserve consent, provenance, reversibility, clear source ownership, and provider substitutability.
+
+## Version 0.2 design disposition
+
+Generalized evidence from assisted setup, live state maintenance, dashboard correction, runtime interruption, and one bounded relationship implementation supports these changes for further testing:
+
+- keep help-first and selective seeded import paths;
+- begin with one to three trajectories rather than requiring three;
+- make the private repository explicit state machinery rather than the person or complete agent;
+- make dashboard, calendar, and relationship channels independent optional capabilities;
+- use qualitative usefulness gates instead of numeric dashboard readiness;
+- preserve a human-readable resume point across devices, conversations, and compatible runtimes;
+- define a trusted-helper access review and exit;
+- require purpose-specific, source-safe, inspectable, correctable, expiring, and revocable relationship representations;
+- verify real permissions and return paths with harmless tests;
+- carry recurring instructions in public doctrine and acceptance tests rather than private custom prompts.
+
+These are design revisions prepared for the next pilot. They are not proof that the system fits every person, ability, device, or environment.
 
 ## Questions for returned pilot evidence
 
-Review the pilot with these questions:
-
-1. Did GPT use the authorized source context, or unnecessarily ask the participant to repeat it?
+1. Did GPT use authorized source context without making the participant repeat it?
 2. Did GPT distinguish source material from established, confirmed state?
 3. Did its proposed attention map feel accurate, useful, and non-imposing?
 4. Did the participant have a clear opportunity to confirm, reject, and correct the interpretation?
-5. Did GPT select useful state, or over-import and create a data dump?
-6. Did it preserve the boundary between personal state and organizational or shared operational truth?
-7. Did direct GitHub writing work without requiring a command line or `gh` CLI?
-8. Did updates preserve provenance and make correction easy?
-9. Did dashboard readiness depend on coherence and usefulness rather than trajectory count alone?
-10. Did calendar entries preserve their real meanings rather than treating every date as a fixed commitment?
-11. Could the participant explain the private repository's purpose and continue without the setup helper?
-12. Did the process reduce cognitive burden?
+5. Did GPT select useful state rather than over-importing?
+6. Did it preserve personal, organizational, and relationship boundaries?
+7. Did direct GitHub access work without requiring a command line or gh CLI?
+8. Could the system resume after a device, conversation, or compatible runtime change?
+9. Did updates preserve provenance and make correction easy?
+10. Did dashboard readiness depend on coherence and usefulness rather than trajectory count?
+11. Did calendar entries preserve their real meanings?
+12. If a relationship channel was used, could the person inspect, correct, expire, and withdraw the exact representation?
+13. Could the participant explain the repository's purpose and continue without the setup helper?
+14. Did the process reduce cognitive burden?
 
 ## Evidence discipline
 
 For each generalized finding, label the claim:
 
-- **Observation:** directly seen in the pilot.
-- **Participant report:** stated by the participant.
-- **Inference:** our interpretation of the evidence.
-- **Design implication:** a possible change suggested by the evidence.
-- **Confirmed correction:** an interpretation the participant explicitly changed.
+- Observation: directly seen in the pilot.
+- Participant report: stated by the participant.
+- Inference: our interpretation of the evidence.
+- Design implication: a possible change suggested by the evidence.
+- Confirmed correction: an interpretation the participant explicitly changed.
 
 Keep these categories separate. Do not convert an inference into participant truth.
 
 Do not store raw participant data in this public repository. Record only the smallest generalized description needed to improve the public system.
 
-## Candidate changes after evidence
+## Further evidence needed
 
-Consider these only after pilot evidence supports them:
+Test whether:
 
-- add an explicit seeded-container or import path to the bootstrap;
-- define the personal-versus-organizational source boundary;
-- add a trusted-helper exit test;
-- replace numeric dashboard readiness with a qualitative rubric;
-- shorten the activation prompt by moving repeated instructions into doctrine;
-- add acceptance tests for selective import, correction, provenance, and participant independence.
+- one living trajectory is enough to establish useful continuity;
+- a nontechnical person can resume on another device or in a fresh compatible GPT;
+- the participant can distinguish the repository, runtime, dashboard, and relationship channel;
+- helper access is actually reduced after setup;
+- optional capabilities remain independent in practice;
+- a relationship representation can move through approval, use, correction, expiry, and withdrawal without exposing private state;
+- the participant can continue without a long custom activation prompt.
 
-A pilot can also disconfirm these ideas. Preserve that result. The goal is a system that responds to evidence, not one that merely confirms its authors' expectations.
+A later pilot may disconfirm any current revision. Preserve that result. The goal is a system that responds to evidence, not one that merely confirms its authors' expectations.
