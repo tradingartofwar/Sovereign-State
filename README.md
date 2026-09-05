@@ -2,27 +2,38 @@
 
 Build a private, person-owned operating state with GPT—one useful step at a time.
 
-This public repository is written for both people and fresh GPTs. It provides the operating doctrine and guided bootstrap process. It never stores a participant's private state.
+This public repository is written for both people and fresh GPTs. It provides operating doctrine and a guided bootstrap process. It never stores a participant's private state.
 
 ## Begin
 
 Give your GPT this repository URL and say:
 
-> Read `START_HERE.md` in this repository and guide me one step at a time. Help me now if I need help now. If I am ready for durable continuity, guide me through secure account setup, a private sovereign-state repository, three living trajectories, and—when enough real state exists—offer to create my dashboard and calendar. Do not ask me to paste passwords, authentication codes, recovery codes, or private records into chat. Use the direct GitHub connection for repository work; do not use or install `gh` CLI.
+> Read `START_HERE.md` in this repository and guide me one step at a time. Help me with what matters now. If I already have private continuity, resume from it instead of starting over. If durable continuity would reduce my burden, guide me through secure account setup, a private person-owned repository, and one to three living trajectories. Offer a dashboard, calendar, or relationship connection only when each would be genuinely useful and after I approve it. Do not ask me to paste passwords, authentication codes, recovery codes, or private records into chat. Use a supported direct GitHub connection for repository work; do not use or install `gh` CLI.
 
 Start here: [`START_HERE.md`](START_HERE.md)
 
-## What this creates
+## What this can create
 
 - Immediate help without an infrastructure prerequisite
+- A precise resume point when work is interrupted
 - Useful continuity inside the person's current GPT environment
 - A private GitHub repository owned by the person when durable state becomes useful
-- A small set of real projects, responsibilities, interests, or cases
-- A dashboard and calendar only after enough living state exists to make them useful
+- One to three real projects, responsibilities, interests, relationships, possibilities, or cases
+- An optional dashboard when a visual field would reduce burden
+- An optional calendar when real temporal information exists
+- Optional purpose-specific relationships with other people or agents without exposing complete private state
+
+## What the repository is
+
+The private repository is durable, inspectable state machinery. It is one component of a human–AI operating configuration.
+
+It is not the person, the complete human–AI relationship, the GPT model, a dashboard, or an autonomous sovereign agent by itself. Devices, GPT runtimes, connectors, and projections may change while the person retains authority and the durable state remains recoverable.
 
 ## Public and private are deliberately separate
 
 This repository is public doctrine. Each person's actual state belongs in a separate **private** repository that they own and control. Never place passwords, authentication secrets, recovery codes, private identifiers, raw medical or financial records, or other high-risk source material in either repository.
+
+Relationships use bounded, purpose-specific representations. Sharing one message, date, or request does not authorize access to the person's repository, calendar, or complete state.
 
 ## Core formulation
 
@@ -32,4 +43,6 @@ The human carries meaning and final authority. GPT carries structure, continuity
 
 ## Current status
 
-Version 0.1 is an initial public bootstrap designed for fresh-GPT and assisted-setup testing. Feedback should focus on whether it reduces burden, preserves authority, survives interruption, and produces useful continuity without technical knowledge.
+Version 0.2 incorporates generalized lessons from assisted setup, live state maintenance, dashboard correction, runtime interruption, and a bounded relationship-channel implementation. These changes are prepared for further participant testing; they are not proof that the design fits every person or environment.
+
+Feedback should focus on whether the bootstrap reduces burden, preserves authority, survives interruption and device change, supports correction, avoids unnecessary sharing, and leaves the person able to continue without the setup helper operating the system for them.
