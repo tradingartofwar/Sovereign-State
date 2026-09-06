@@ -8,6 +8,8 @@
 
 No living trajectories have been established yet.
 
+Keep this a short, correctable priority view when useful. Reference the owning trajectory and briefly state why it matters now; show relevant timing and the priority review date without copying the full task record. Priority order is not necessarily execution order. Other due returns still belong under Coming up. A relationship, interest, or possibility may matter without a deadline. Leave the list empty until there is real state to support it.
+
 ## Active trajectories
 
 None.

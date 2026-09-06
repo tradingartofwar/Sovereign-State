@@ -72,6 +72,8 @@ The intended sequence is:
 
 > observe → interpret → propose → human authorizes or corrects → implement → verify → preserve provenance and correctability
 
+This describes the authority relationship, not a demand for a new approval on every update. A clear current instruction or applicable standing delegation can already supply the authorization for bounded internal work. Carry it through and verify; ask when the next consequence exceeds that scope.
+
 Access to context or a repository is not authority to decide what matters, expose private material, or make consequential commitments.
 
 ### The trusted helper needs an exit condition

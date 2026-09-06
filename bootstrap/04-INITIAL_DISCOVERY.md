@@ -24,14 +24,15 @@ For each seed, establish only:
 - What remains uncertain?
 - What is the next meaningful movement?
 - Who owns that movement?
-- What date or event should bring it back?
+- What date or event should bring it back? Does it need more than one return?
+- How will each return actually surface: a verified reminder, an external calendar event, a named manual review, or a deliberate quiet wait?
 - Which system or source owns the underlying truth?
 - What information must remain outside Git?
 - Is anything from this trajectory authorized for another person? Default: no.
 
 Create one trajectory file per seed using [`TRAJECTORY_TEMPLATE.md`](../templates/private-sovereign-state/trajectories/TRAJECTORY_TEMPLATE.md).
 
-Do not import every fact already available in a conversation or container. Propose the smallest useful representation and let the person confirm, reject, or correct it before writing.
+Do not import every fact already available in a conversation or container. When interpreting existing context into new initial state, propose the smallest useful representation and let the person confirm, reject, or correct it before writing. A direct request to record a clearly specified update already authorizes that bounded internal work; do not add a second confirmation ceremony. Preserve inferred significance as interpretation, not as the person's established decision.
 
 ## Living-state proof
 
