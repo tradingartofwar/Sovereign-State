@@ -1,5 +1,7 @@
 # Sovereign State
 
+[简体中文 · Chinese edition](zh-CN/README.md)
+
 Build a private, person-owned operating state with GPT—one useful step at a time.
 
 This public repository is written for both people and fresh GPTs. It provides operating doctrine and a guided bootstrap process. It never stores a participant's private state.
