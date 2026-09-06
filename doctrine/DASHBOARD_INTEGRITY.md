@@ -36,9 +36,16 @@ Every active trajectory should either appear in the dashboard or have an explici
 
 A coverage count or manifest can help detect silent omissions, but a count is not a substitute for checking meaning. Stale, reported, inferred, and unverified information must remain visibly distinguishable from established state.
 
+## Reviewable priorities
+
+When useful, offer one short priority view across the person's fields. Show why each selected trajectory deserves attention, its next action, timing or uncertainty, and when the judgment was reviewed. Derive task details from their owning records rather than maintaining a second task list. The person can correct the ordering in ordinary language; GPT may propose or revise it within delegated judgment. Include relationships and possibilities when relevant, not only urgent work. Priority is distinct from execution order. Other due returns must remain visible even if they are not selected priorities.
+
 ## Movement, waiting, and completion
 
-- A waiting item needs an owner or external party, the condition being awaited, and a return date or trigger.
+- A waiting item needs an owner or external party, the condition being awaited, and one or more returns as needed.
+- Each return distinguishes its meaning, date or trigger, owner, status, and actual delivery mechanism. Written dates are not proof of scheduled reminders or monitoring; setup verification is not notification delivery.
+- Passing a review date requests a state check, not an inferred failure or completion. Keep an external deadline distinct from a chosen work goal.
+- Corrections to dates or return status must reach affected reminders and calendar entries through their owning services within authorization; changing the dashboard alone is insufficient.
 - A reported intention is not proof of completion.
 - When completion is established, retire the item from present attention while preserving its meaningful history and proof boundary.
 - Do not let closed work remain visible merely because removing it is inconvenient.

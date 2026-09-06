@@ -364,7 +364,7 @@ The system should gather information through ordinary conversation whenever poss
 
 Structure should be carried primarily by the AI.
 
-The person should carry meaning and authorization.
+The person decides what matters and what judgment to delegate; they do not have to carry all meaning or relevant state. AI can help discover, interpret, preserve, and surface what matters within that delegation.
 
 ---
 

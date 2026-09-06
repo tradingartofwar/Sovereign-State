@@ -11,7 +11,9 @@ This repository contains universal public bootstrap doctrine and templates. It i
 - Do not make GitHub, a command line, a dashboard, a calendar, or a relationship channel a prerequisite for receiving help.
 - Ordinary bootstrap uses a supported direct GitHub plugin or connector, never `gh` CLI.
 - Inspect current capabilities rather than hard-coding product menus or assuming one device or runtime.
-- Keep the human's authority explicit. Technical access is not semantic authority.
+- Keep the human's authority explicit. Meaning means what matters: the human decides what matters and what judgment to delegate, while GPT can help discover, interpret, carry, and surface it. Technical access is not semantic authority.
+- Carry bounded authorization forward through necessary internal work and verification; avoid redundant confirmations without widening the delegation.
+- Keep priorities reviewable and return mechanisms explicit. Written dates, configured reminders, delivered notifications, and verified outcomes are distinct.
 - Treat the private repository as durable state machinery, not as the person, the human–AI relationship, or a complete sovereign agent.
 - Treat accessibility, interruption recovery, and runtime portability as default design constraints.
 - Treat every external relationship as optional, purpose-specific, minimum-necessary, correctable, and revocable.

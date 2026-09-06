@@ -11,12 +11,27 @@
 - Next meaningful movement:
 - Action owner:
 - Waiting on:
-- Return date or trigger:
-- Calendar meaning: appointment | deadline | planned action | review date | routine | possibility | none
 - Privacy boundary:
 - External sharing: none by default | approved bounded representation | source-safe pointer
 - Last verified:
 - Last updated:
+
+## Returns
+
+Use one entry per independently meaningful return. Add only what is useful; one trajectory may have several returns. Keep appointments, deadlines, chosen work goals, reviews, and event conditions distinct.
+
+- Return ID:
+- Meaning: appointment | deadline | planned action | review date | routine | possibility | event
+- Date/time and timezone, or event condition:
+- Owner:
+- Source and uncertainty:
+- Delivery mechanism: verified reminder | external calendar | named manual review | deliberate quiet wait | not arranged
+- Mechanism reference and last setup check, if applicable:
+- Manual reviewer or reason for quiet wait, if applicable:
+- Status: pending | satisfied | cancelled
+- Outcome or cancellation reason:
+
+A written date is not a notification. Record setup and delivery separately when known. An elapsed review asks for a state check, not an inferred failure. Correct any affected external reminder or calendar event within authorization when the return changes.
 
 ## Correction note
 

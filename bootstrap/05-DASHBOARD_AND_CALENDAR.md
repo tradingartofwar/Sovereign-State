@@ -34,7 +34,7 @@ Build only after the person accepts.
 
 Keep the first version small and readable on the person's current device. Include only sections supported by living state:
 
-- What matters now
+- Priorities / what matters now: a short, reviewable ordering when useful
 - Coming up
 - Active trajectories
 - Waiting safely
@@ -44,6 +44,8 @@ Keep the first version small and readable on the person's current device. Includ
 - A simple explanation of how to report a change or correction
 
 Include a calendar section only when time-based information would be useful.
+
+For each selected priority, show why it matters now, the next useful action, relevant timing or uncertainty, and when the judgment was reviewed. Link to the same underlying trajectory; do not create a separate copy of task state. Let ordinary-language corrections change the list. Important relationships, interests, and longer-term possibilities are eligible without deadlines. Priority order expresses importance, not necessarily execution sequence. Keep other due returns visible even when they are outside the shortlist; do not turn every open item into a priority.
 
 Once the person accepts the dashboard, preserve its route, field names, and basic layout. Propose material display changes instead of silently replacing the accepted view.
 
@@ -75,6 +77,12 @@ Do not convert every date into an appointment. Preserve these distinctions:
 | Routine | A recurring activity |
 | Possibility | A tentative or unconfirmed date |
 | Availability | A bounded period the person may choose to share or use |
+
+One trajectory may have several returns with different meanings: for example, a preparation review, a deadline, and an appointment. Keep each return's identity, meaning, date or condition, owner, and pending/satisfied/cancelled state separate. An elapsed review asks for a state check; it does not establish failure or completion.
+
+For each return, identify the actual mechanism: a reminder verified in the scheduling service, an external calendar event, a named manual review, a deliberate quiet wait, or not yet arranged. Record the service reference and last setup check when applicable. A date in a repository or dashboard is not a scheduled notification. A calendar event does not prove an alert is enabled or delivered. Do not claim background observation of an event unless a supported, authorized mechanism actually exists.
+
+When a return changes, correct its source and any affected external reminder or calendar record within the person's authorization, then verify the affected projections. Updating the text alone does not reschedule a reminder. Preserve satisfied or cancelled returns with their reason. If no notification capability is available, state the limitation and agree on a usable manual return.
 
 The initial calendar may be generated from the private repository. A real calendar service may be connected later with separate permission.
 

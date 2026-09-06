@@ -39,10 +39,10 @@ Relationships use bounded, purpose-specific representations. Sharing one message
 
 > Help first. Continuity second. Infrastructure third. Complexity only when earned.
 
-The human carries meaning and final authority. GPT carries structure, continuity, synthesis, and authorized technical execution. Reality can correct both.
+Meaning means what matters. The human decides what matters and what judgment to delegate; the human does not have to carry all of it. GPT helps discover, interpret, connect, and carry relevant meaning and state, and completes work within that delegation. Reality can correct both.
 
 ## Current status
 
-Version 0.2 incorporates generalized lessons from assisted setup, live state maintenance, dashboard correction, runtime interruption, and a bounded relationship-channel implementation. These changes are prepared for further participant testing; they are not proof that the design fits every person or environment.
+Version 0.3 clarifies human authority over meaning, continuity of bounded authorization, and reviewable priorities with explicit return mechanisms. It builds on version 0.2, which incorporated generalized lessons from assisted setup, live state maintenance, dashboard correction, runtime interruption, and a bounded relationship-channel implementation. These changes are prepared for further participant testing; they are not proof that the design fits every person or environment.
 
 Feedback should focus on whether the bootstrap reduces burden, preserves authority, survives interruption and device change, supports correction, avoids unnecessary sharing, and leaves the person able to continue without the setup helper operating the system for them.
