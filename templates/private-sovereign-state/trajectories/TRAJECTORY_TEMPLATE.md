@@ -2,7 +2,7 @@
 
 - Kind: immediate | responsibility | project | relationship | interest | possibility | case
 - Status: active | waiting | available | closed
-- Why it matters:
+- Why it matters, or what caught attention (may be unknown):
 - Current established reality:
 - What remains unknown:
 - Evidence basis: direct report | source observed | inference | needs verification
@@ -15,6 +15,8 @@
 - External sharing: none by default | approved bounded representation | source-safe pointer
 - Last verified:
 - Last updated:
+
+For an open interest, the purpose, next action, action owner, or timing may remain unresolved. Mark unknown or unset fields honestly; an interest does not need a deadline or return arrangement to remain available.
 
 ## Returns
 

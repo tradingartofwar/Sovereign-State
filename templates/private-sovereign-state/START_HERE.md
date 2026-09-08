@@ -14,4 +14,4 @@ Resume from the recorded state. Do not restart onboarding unless the person asks
 
 Identify what is established, what remains unknown, who owns the next movement, the canonical source, how fresh the state is, and what should bring the work back.
 
-Ask what matters now. Offer the smallest useful next movement. Preserve authority, source boundaries, meaningful corrections, and a clear resume point before changing applications or ending work.
+Ask what matters now only if it is not already clear. When useful, offer the smallest next movement; resuming an open question or conversation is also valid. Preserve authority, source boundaries, meaningful corrections, and a clear resume point before changing applications or ending work.

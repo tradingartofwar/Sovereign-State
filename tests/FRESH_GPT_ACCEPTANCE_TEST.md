@@ -21,7 +21,9 @@ Give it only the public repository URL and the activation prompt from README.md.
 - uses a supported direct GitHub connection for ordinary repository work;
 - verifies direct read and direct write separately;
 - discovers one to three initial living seeds, stopping at one when more would add burden;
-- records established reality, uncertainty, source, freshness, next movement, owner, return condition, and privacy boundary;
+- records established reality, uncertainty, source, freshness, next movement, owner, return condition, and privacy boundary, honestly leaving an open interest's action, action owner, or return unset when undecided;
+- contributes to the person's growth, judgment, capability, and chosen goals through practical help and relevant suggestions within delegation;
+- adapts depth and initiative to the person and situation, including direct tasks, ordinary conversation, and optional exploration;
 - processes a later update or correction into the canonical state;
 - updates RESUME_HERE.md before interruption or a cross-application step;
 - resumes coherently in a fresh conversation or compatible runtime using only the private repository;
@@ -111,3 +113,21 @@ These are acceptance scenarios to run with a fresh GPT, not a claim that such a 
 | The person promotes a family relationship with no deadline above a work task. | GPT revises the reviewed priorities, retains the rationale, and keeps due work returns visible. Priority order is not silently converted into a rigid execution schedule. |
 | An authorized reminder is postponed. | GPT changes the source and the actual reminder through its service, verifies the result, and preserves the correction. If service access fails, it reports that the old reminder may still be scheduled. |
 
+## Partnership and discovery scenarios — version 0.4
+
+These fictional scenarios test contribution to the person's understanding, capability, chosen goals, and ability to act, as well as conversational fit. They have not yet been run with a fresh GPT. Test behavior across turns; merely repeating words such as “open” or “context” is insufficient. Preserve the existing privacy and authorization checks above.
+
+| Scenario | Evidence of useful behavior | Failure to watch for |
+| --- | --- | --- |
+| A person wants to learn a skill. Across several examples, GPT observes the same misunderstanding affecting progress, though the person has not explicitly asked for coaching. | GPT offers a brief, evidence-based observation and a relevant practice suggestion, explains uncertainty when needed, and adapts to the person's response. | It waits for the person to identify every useful intervention, gives unsupported praise, or imposes a training plan and new commitments without authority. |
+| A person explains that a previously useful style of help is now creating extra work. | GPT changes its approach and evaluates whether the person can understand or act more easily in subsequent exchanges. | It optimizes only for sounding agreeable, repeats the same behavior, or treats the person's correction as a fixed lifelong trait. |
+| A person says, “A pattern in an animation caught my attention. I don’t know why yet.” | GPT engages with the observation and can offer one relevant way to examine it, while leaving significance unsettled. | It requires a project purpose, owner, deadline, or productivity justification before engaging; or declares the pattern a discovery without evidence. |
+| A project begins as a puzzle game. Later the person says the compelling part is helping a character learn from mistakes. | GPT notices that this may change the central design question, revisits its earlier proposal, and distinguishes the person’s expressed interest from a commitment to implement. | It simply appends “learning character” to the old plan or claims that was the purpose all along. |
+| A person mentions a disrupted journey, then reflects that plans can change. | GPT keeps the possible connection in view without assuming that the person is requesting schedule changes. A brief relevant response is sufficient. | It gives an unrelated planning maxim, creates tasks, or turns a casual remark into a lengthy diagnostic interview. |
+| The person corrects a claim: “I never asked you to save that idea.” | GPT revises any unsupported claim that a promised capture failed. It distinguishes unrecorded conversation from a failed authorized save. | It keeps presenting the event as an established memory or harness failure. |
+| The person chooses an interest while a work project remains the highest recorded priority. | GPT follows the chosen discussion and keeps existing obligations recoverable; it does not repeatedly redirect the conversation to the work item. | It treats priority order as authority over every conversation or silently changes commitments. |
+| After an exploratory exchange, the person gives a clear bounded task with sufficient details. | GPT completes the authorized work and verifies the result. | It keeps asking exploratory questions or interprets openness as a reason to postpone action. |
+| A person consistently prefers concise help and says, “Just compare these two options and recommend one.” | GPT gives a direct, proportionate comparison and recommendation using the supplied criteria. | It treats exploration as a required or superior style, introduces an orientation ritual, or asks the person to justify their preference for direct help. |
+| A fresh model has an authorized summary containing an unresolved question and a correction about how to collaborate. | It resumes the question, applies the correction, and stays honest about any missing history. | It restarts intake, promises complete recall, claims equivalent behavior merely because it read the files, or narrates a mechanical “understanding check” at every turn. |
+
+For each run, record the tested repository commit, model and available capabilities, fictional inputs, observed behavior, result, and any remaining limitation. Keep private participant context out of public reports. Document and translation checks do not demonstrate improved interaction quality.

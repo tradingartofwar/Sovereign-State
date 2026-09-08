@@ -16,7 +16,7 @@ One to three is a pacing boundary, not a definition of the person or a maturity 
 
 ## Ask one seed at a time
 
-For each seed, establish only:
+For each seed, use only the prompts that help establish useful state:
 
 - What is it?
 - Why does it matter?
@@ -29,6 +29,8 @@ For each seed, establish only:
 - Which system or source owns the underlying truth?
 - What information must remain outside Git?
 - Is anything from this trajectory authorized for another person? Default: no.
+
+For an emerging interest, what caught attention may be all that is known. Why it matters, the next movement, and a return date can remain unresolved. These prompts guide useful discovery; they are not a form to complete before exploration can begin.
 
 Create one trajectory file per seed using [`TRAJECTORY_TEMPLATE.md`](../templates/private-sovereign-state/trajectories/TRAJECTORY_TEMPLATE.md).
 

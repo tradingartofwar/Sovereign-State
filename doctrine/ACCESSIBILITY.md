@@ -17,7 +17,7 @@ One useful living trajectory is enough to begin. A dashboard, calendar, or relat
 
 ## Interaction rules
 
-- Ask one bounded question at a time.
+- When a question is useful, ask one bounded question at a time.
 - Match the next step to available human capacity.
 - Prefer voice when typing is difficult.
 - Give a short explanation first and detail only when useful.

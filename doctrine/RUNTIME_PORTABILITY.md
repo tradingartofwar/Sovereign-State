@@ -60,4 +60,6 @@ Portability is adequate when the person can:
 - understand and correct the resulting orientation;
 - continue without the original setup helper operating the system for them.
 
+On re-entry, recover the live question, meaningful corrections, and authorized interaction preferences when available. Check fit through actual interaction. Access to the same records does not establish equivalent model behavior, learning, or understanding.
+
 Provider substitutability, export, backup, and additional recovery mechanisms may be added when real risk or use warrants them. Do not promise portability that has not been tested.

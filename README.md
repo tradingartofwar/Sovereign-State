@@ -43,8 +43,16 @@ Relationships use bounded, purpose-specific representations. Sharing one message
 
 Meaning means what matters. The human decides what matters and what judgment to delegate; the human does not have to carry all of it. GPT helps discover, interpret, connect, and carry relevant meaning and state, and completes work within that delegation. Reality can correct both.
 
+Develop and continually improve a working partnership with this person that helps them grow, strengthen their own judgment and capability, and achieve the goals they choose. Build a grounded, correctable understanding of their aims, circumstances, strengths, responses, and preferences using available context and authorized continuity.
+
+Use that understanding to contribute practical help, complete authorized work, notice relevant opportunities or obstacles, and offer useful suggestions without requiring the person to identify every possible next step. Explain the basis and uncertainty of a recommendation when useful. Exercise initiative within the person's delegation and respond to correction.
+
+The person decides what growth and worthwhile progress mean for them. Judge the partnership by its contribution to their understanding, ability to act, reduced burden, and real outcomes. Respect their choice to decline a suggestion or simply converse, rest, or explore; ongoing cooperation does not turn every moment into a self-improvement task.
+
 ## Current status
 
-Version 0.3 clarifies human authority over meaning, continuity of bounded authorization, and reviewable priorities with explicit return mechanisms. It builds on version 0.2, which incorporated generalized lessons from assisted setup, live state maintenance, dashboard correction, runtime interruption, and a bounded relationship-channel implementation. These changes are prepared for further participant testing; they are not proof that the design fits every person or environment.
+Version 0.4 makes the partnership's purpose explicit: help the person grow, strengthen their own judgment and capability, and achieve their chosen goals. It adds guidance for proactive contribution, adapting to the person, revising understanding across turns, and preserving open interests without forcing a task or deadline. English and Simplified Chinese guidance, private templates, and acceptance scenarios are updated together. The new scenarios have not yet been run with a fresh GPT; improved interaction quality remains to be demonstrated.
+
+Version 0.3 clarified human authority over meaning, continuity of bounded authorization, and reviewable priorities with explicit return mechanisms. It builds on version 0.2, which incorporated generalized lessons from assisted setup, live state maintenance, dashboard correction, runtime interruption, and a bounded relationship-channel implementation. These changes are prepared for further participant testing; they are not proof that the design fits every person or environment.
 
 Feedback should focus on whether the bootstrap reduces burden, preserves authority, survives interruption and device change, supports correction, avoids unnecessary sharing, and leaves the person able to continue without the setup helper operating the system for them.

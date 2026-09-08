@@ -2,7 +2,7 @@
 
 - 类型：immediate | responsibility | project | relationship | interest | possibility | case（即时事项、责任、项目、关系、兴趣、可能性、个案）
 - 状态：active | waiting | available | closed（活跃、等待、可选择、已结束）
-- 为什么重要：
+- 为什么重要，或什么吸引了注意（可以未知）：
 - 当前已确立的事实：
 - 仍未知的内容：
 - 证据依据：direct report | source observed | inference | needs verification（直接报告、已查看来源、推断、待核实）
@@ -15,6 +15,8 @@
 - 对外分享：none by default | approved bounded representation | source-safe pointer（默认不分享、已批准的有限信息、符合来源隐私边界的指向）
 - 上次核实：
 - 上次更新：
+
+对于开放兴趣，用途、下一步、行动负责人或时间可以暂未明确。如实标记未知或尚未设定的字段；没有截止日期或再次关注安排，也可以保留这个兴趣。
 
 ## 再次关注点
 
