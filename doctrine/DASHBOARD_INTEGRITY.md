@@ -25,6 +25,16 @@ When reality changes:
 
 Do not use a manual dashboard-only edit as durable state. If an emergency display correction is made first, label it noncanonical and reconcile it back to the source promptly.
 
+## Revision and publication integrity
+
+Begin a consequential dashboard update from the current authoritative source and preserve its checkpoint or revision. If that source changes while an update is being prepared, reread and reconcile instead of silently overwriting newer state. Use a revision check, fingerprint, comparison, or equivalent stale-write guard when the implementation supports one.
+
+Keep these stages distinct:
+
+> source corrected → projection generated → build or publication completed → accepted live dashboard inspected
+
+Do not report the dashboard as current merely because source files changed, a build passed, or a deployment call was made. Verify the actual accepted route and published version, its honest “as of” marker, representative priority and return content, and any coverage count before claiming success. A count can detect omission; it cannot establish that the represented meaning is correct.
+
 ## Coverage and exclusions
 
 Every active trajectory should either appear in the dashboard or have an explicit exclusion reason. Useful exclusion reasons include:
@@ -35,6 +45,12 @@ Every active trajectory should either appear in the dashboard or have an explici
 - intentionally parked or outside the current attention field.
 
 A coverage count or manifest can help detect silent omissions, but a count is not a substitute for checking meaning. Stale, reported, inferred, and unverified information must remain visibly distinguishable from established state.
+
+## Interface fidelity
+
+Formatting and interaction can carry operational meaning. Essential status, uncertainty, ownership, and return information must not depend only on color, a collapsed panel, hover behavior, or a visual mark that disappears when content is copied or transformed.
+
+Check the accepted dashboard on the person's actual device when practical. Preserve readable semantics for compact screens and assistive technology, and make important evidence boundaries available in text. A successful render does not prove that the interface communicated the intended distinctions.
 
 ## Reviewable priorities
 
