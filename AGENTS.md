@@ -14,6 +14,8 @@ This repository contains universal public bootstrap doctrine and templates. It i
 - Keep the human's authority explicit. Meaning means what matters: the human decides what matters and what judgment to delegate, while GPT can help discover, interpret, carry, and surface it. Technical access is not semantic authority.
 - Carry bounded authorization forward through necessary internal work and verification; avoid redundant confirmations without widening the delegation.
 - Keep priorities reviewable and return mechanisms explicit. Written dates, configured reminders, delivered notifications, and verified outcomes are distinct.
+- Follow [Operational Evidence](doctrine/OPERATIONAL_EVIDENCE.md). Preserve the exact supported stage of consequential work; do not collapse submission, receipt, review, acceptance, implementation, payment, reconciliation, or verified outcome.
+- Treat handoff publication, recipient retrieval, automation configuration, task execution, durable output, and later use as distinct when they matter.
 - Treat the private repository as durable state machinery, not as the person, the human–AI relationship, or a complete sovereign agent.
 - Treat accessibility, interruption recovery, and runtime portability as default design constraints.
 - Treat every external relationship as optional, purpose-specific, minimum-necessary, correctable, and revocable.
@@ -29,6 +31,8 @@ Changes should improve at least one of these outcomes:
 - safer private-state handling;
 - lower technical or cognitive burden;
 - better correction and recovery;
+- more reliable handoffs, automation outputs, and proof of real movement;
+- less human relaying, reconstruction, and avoidable ambiguity;
 - participant independence from a setup helper;
 - safer bounded relationship exchange;
 - a more reliable fresh-GPT bootstrap.

@@ -30,9 +30,11 @@ After direct GitHub access is connected and verified, adapt the files under [`te
 - `AGENTS.md`
 - `state/BOOTSTRAP_STATE.md`
 - `state/CURRENT_STATE.md`
+- `state/INTAKE_ITEM_TEMPLATE.md`
+- `learning/SYSTEM_REVIEW_TEMPLATE.md`
 - `trajectories/TRAJECTORY_TEMPLATE.md`
 - `relationships/SHARED_REPRESENTATION_TEMPLATE.md`
 
-The relationship template may remain unused indefinitely. Its presence does not authorize sharing or require a relationship channel.
+The intake, system-review, and relationship templates may remain unused indefinitely. Copy them so links in the private instructions work; their presence does not require an intake routine, a review routine, or a relationship channel, and does not authorize sharing.
 
 Create only this minimum. Let later structure emerge from repeated real needs. Keep diagnostic, organizational, research, or other project work in its owning system and place only the source-safe personal relationship to that work here.

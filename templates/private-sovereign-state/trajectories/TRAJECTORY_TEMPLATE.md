@@ -6,6 +6,9 @@
 - Current established reality:
 - What remains unknown:
 - Evidence basis: direct report | source observed | inference | needs verification
+- Current operational stage, if applicable:
+- Stage evidence or proof boundary:
+- Next evidence that could advance or correct the stage:
 - Canonical source:
 - Source owner:
 - Next meaningful movement:
@@ -29,11 +32,12 @@ Use one entry per independently meaningful return. Add only what is useful; one 
 - Source and uncertainty:
 - Delivery mechanism: verified reminder | external calendar | named manual review | deliberate quiet wait | not arranged
 - Mechanism reference and last setup check, if applicable:
+- Output destination and persistence check, if this return generates work:
 - Manual reviewer or reason for quiet wait, if applicable:
 - Status: pending | satisfied | cancelled
 - Outcome or cancellation reason:
 
-A written date is not a notification. Record setup and delivery separately when known. An elapsed review asks for a state check, not an inferred failure. Correct any affected external reminder or calendar event within authorization when the return changes.
+A written date is not a notification. Record setup, run attempt, output, delivery, and review separately when they matter. An elapsed review asks for a state check, not an inferred failure. Correct any affected external reminder or calendar event within authorization when the return changes.
 
 ## Correction note
 

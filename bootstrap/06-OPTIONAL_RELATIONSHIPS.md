@@ -56,6 +56,20 @@ Use harmless test content before real personal information.
 
 If the person wants to share one period of availability or one request tied to a date, publish only that bounded representation. Do not connect or expose the person's whole calendar unless they separately and explicitly choose that broader access.
 
+## Agent-mediated handoff
+
+When the intended recipient is another GPT, project session, or specialized agent, the same relationship boundaries apply.
+
+- The project or source system keeps ownership of substantive state; the channel carries a bounded message, question, correction, request, or source pointer.
+- Record the owning source and checkpoint, intended recipient, intended result, current stage, open uncertainty, and next evidence.
+- Keep publication, recipient retrieval, review, acceptance or rejection, implementation, and verified outcome separate.
+- A configured watcher or scheduled check is transport machinery, not proof that the recipient retrieved or used the handoff.
+- Where existing authorization and available tools permit it, GPT should carry routine posting, retrieval, and follow-through without making the person relay messages.
+- Preserve disagreement and attribution. Several agents repeating the same source do not independently confirm it.
+- Do not automatically enroll every project or create recurring monitoring without a concrete purpose, owner, permitted action, review cadence, and stopping condition.
+
+Use the operational stages in [Operational Evidence](../doctrine/OPERATIONAL_EVIDENCE.md). Begin with one bounded exchange and verify the return path before relying on recurring coordination.
+
 ## Completion
 
 The relationship stage is complete only when:
