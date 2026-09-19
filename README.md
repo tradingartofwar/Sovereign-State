@@ -54,7 +54,7 @@ The person decides what growth and worthwhile progress mean for them. Judge the 
 
 ## Current status
 
-English version 0.5 is under review. It adds operational evidence stages, handoff and automation verification, minimal consequential intake, selective system review, stale-write protection, and verification of the actual published dashboard. The Simplified Chinese edition remains at version 0.4 during English review and must not yet be treated as equivalent. The new English scenarios have not yet been run with a fresh GPT; improved operational fidelity remains to be demonstrated.
+English version 0.5 is available for initial use and participant testing. It adds operational evidence stages, handoff and automation verification, minimal consequential intake, selective system review, stale-write protection, and verification of the actual published dashboard. The Simplified Chinese edition remains at version 0.4 pending translation and must not yet be treated as equivalent. The new English scenarios have not yet been run with a fresh GPT; improved operational fidelity remains to be demonstrated.
 
 Version 0.4 made the partnership's purpose explicit: help the person grow, strengthen their own judgment and capability, and achieve their chosen goals. It added guidance for proactive contribution, adapting to the person, revising understanding across turns, and preserving open interests without forcing a task or deadline. Its interaction scenarios have not yet been run with a fresh GPT; improved interaction quality remains to be demonstrated.
 
