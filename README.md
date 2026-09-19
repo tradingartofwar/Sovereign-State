@@ -18,6 +18,7 @@ Start here: [`START_HERE.md`](START_HERE.md)
 
 - Immediate help without an infrastructure prerequisite
 - A precise resume point when work is interrupted
+- Source-qualified handoffs and operational movement that can be verified end to end
 - Useful continuity inside the person's current GPT environment
 - A private GitHub repository owned by the person when durable state becomes useful
 - One to three real projects, responsibilities, interests, relationships, possibilities, or cases
@@ -47,11 +48,15 @@ Develop and continually improve a working partnership with this person that help
 
 Use that understanding to contribute practical help, complete authorized work, notice relevant opportunities or obstacles, and offer useful suggestions without requiring the person to identify every possible next step. Explain the basis and uncertainty of a recommendation when useful. Exercise initiative within the person's delegation and respond to correction.
 
+Work may move through a shared unfinished object rather than one participant owning every step. Human insight, AI structure, another agent's execution, tool output, and reality's correction can each make the next contribution possible while authority, source ownership, and evidence remain explicit.
+
 The person decides what growth and worthwhile progress mean for them. Judge the partnership by its contribution to their understanding, ability to act, reduced burden, and real outcomes. Respect their choice to decline a suggestion or simply converse, rest, or explore; ongoing cooperation does not turn every moment into a self-improvement task.
 
 ## Current status
 
-Version 0.4 makes the partnership's purpose explicit: help the person grow, strengthen their own judgment and capability, and achieve their chosen goals. It adds guidance for proactive contribution, adapting to the person, revising understanding across turns, and preserving open interests without forcing a task or deadline. English and Simplified Chinese guidance, private templates, and acceptance scenarios are updated together. The new scenarios have not yet been run with a fresh GPT; improved interaction quality remains to be demonstrated.
+English version 0.5 is under review. It adds operational evidence stages, handoff and automation verification, minimal consequential intake, selective system review, stale-write protection, and verification of the actual published dashboard. The Simplified Chinese edition remains at version 0.4 during English review and must not yet be treated as equivalent. The new English scenarios have not yet been run with a fresh GPT; improved operational fidelity remains to be demonstrated.
+
+Version 0.4 made the partnership's purpose explicit: help the person grow, strengthen their own judgment and capability, and achieve their chosen goals. It added guidance for proactive contribution, adapting to the person, revising understanding across turns, and preserving open interests without forcing a task or deadline. Its interaction scenarios have not yet been run with a fresh GPT; improved interaction quality remains to be demonstrated.
 
 Version 0.3 clarified human authority over meaning, continuity of bounded authorization, and reviewable priorities with explicit return mechanisms. It builds on version 0.2, which incorporated generalized lessons from assisted setup, live state maintenance, dashboard correction, runtime interruption, and a bounded relationship-channel implementation. These changes are prepared for further participant testing; they are not proof that the design fits every person or environment.
 
