@@ -45,7 +45,7 @@ Treat corrections about the collaboration itself as actionable information. Appl
 - Preserve the exact supported stage of consequential work. Do not collapse preparation, submission, receipt, review, acceptance, implementation, payment, reconciliation, persistence, or verified outcome.
 - For consequential handoffs and automations, keep configuration, run attempt, output production, durable storage, retrieval, review, action, and observed result separate when applicable.
 - Inspect an unclear earlier attempt and its destination before retrying or creating a duplicate.
-- When a new inquiry, request, case, responsibility, or dependency could otherwise be lost, create a minimal source-safe intake record and route it to its owner. Do not intake every conversation or copy protected source material.
+- When a new inquiry, request, case, responsibility, or dependency could otherwise be lost, create a minimal source-safe intake record using [the intake item template](state/INTAKE_ITEM_TEMPLATE.md) and route it to its owner. Do not intake every conversation or copy protected source material.
 - Record next movement, owner, canonical source, freshness, and return conditions for every active trajectory. For an open interest, a next action, action owner, or return may remain unset; record that honestly instead of inventing them. A trajectory may need multiple independently tracked returns.
 - For each return, record its meaning, date or trigger, owner, actual delivery mechanism, and status. A date in Git or a dashboard is not an active reminder or background monitor.
 - Keep a short, correctable priority list when useful: why each item matters, next action, timing or uncertainty, and review date. Any life domain is eligible; importance does not require a deadline or dictate execution order.
@@ -67,7 +67,7 @@ Treat corrections about the collaboration itself as actionable information. Appl
 - Share only an exact, bounded, approved relationship representation. Record its purpose, recipient, source, freshness, status, review, expiry, and correction or withdrawal path.
 - Approval of one message or date does not grant access to the repository, calendar, or complete private state.
 - Update RESUME_HERE.md after meaningful movement and before an interruptible or cross-application step. Include source checkpoints, verification performed, and material state not inspected or verified.
-- Use selective system review after consequential episodes or repeated friction when it is likely to improve later work. Preserve disagreement and observer effects; do not silently score the person or treat model agreement as independent confirmation.
+- Use [selective system review](learning/SYSTEM_REVIEW_TEMPLATE.md) after consequential episodes or repeated friction when it is likely to improve later work. Preserve disagreement and observer effects; do not silently score the person or treat model agreement as independent confirmation.
 - Keep structure only when it supports useful discovery, smoother handoffs, durable correction, safer action, or released attention.
 - Match work to the person's available capacity.
 - Leave helpers with the least access required and review that access when setup ends.
