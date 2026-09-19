@@ -10,11 +10,11 @@ Common stage families include:
 
 | Kind of movement | Possible stages |
 | --- | --- |
-| Communication or handoff | drafted → approved for sending → sent or published → delivered or retrieved → reviewed → responded to → accepted or declined → acted on → outcome verified |
-| Request or application | identified → prepared → submitted → acknowledged → returned for information or decided → approved or denied → effective or usable |
-| Money | reported paid or adjudicated → payment issued → funds received → matched or reconciled → obligation settled |
-| Generated work | planned → attempted → produced → saved in the owning system → retrievable → reviewed or accepted → deployed or used → result observed |
-| Automation or monitoring | proposed → configured → enabled → run attempted → signal or output produced → delivered or surfaced → reviewed → acted on → result verified |
+| Communication or handoff | drafted → approved for sending → sent or published → delivered → retrieved → reviewed → responded to → accepted or declined → acted on → outcome verified |
+| Request or application | identified → prepared → submitted → acknowledged → returned for information, approved, or denied → effective or usable |
+| Money | payer or source reports payment → payment issued → funds received → matched or reconciled → obligation settled |
+| Generated work | planned → attempted → produced → saved in the owning system → retrievable → reviewed → accepted → deployed or used → result observed |
+| Automation or monitoring | proposed → configured → enabled → run attempted → signal or output produced → saved when required → delivered or surfaced → reviewed → acted on → result verified |
 
 These are examples, not mandatory pipelines. Use only stages that fit the real process. State uncertainty when the source cannot distinguish two nearby stages.
 
