@@ -9,6 +9,9 @@ It is one part of the person's human–AI operating configuration. It is not the
 - Repository owner: The person who owns this repository
 - Current bootstrap stage: `private_state_created`
 - Last established result: Private repository created
+- Source checkpoint(s): Initial template state; no live checkpoint recorded
+- Verification performed: Repository creation reported; direct GitHub read and write not yet verified
+- Material state not inspected or still unverified: Direct GitHub access and any living trajectories
 - Next smallest step: Connect a supported GPT to GitHub and verify one harmless read and one harmless write
 - Blocker: None recorded
 - Return condition: Connection result, permission problem, interruption, or changed instruction
@@ -23,4 +26,4 @@ Say:
 
 If the original device, conversation, dashboard, or GPT is unavailable, use another supported route to reach this repository. Do not place passwords, authentication codes, recovery codes, or private source records in this file.
 
-Update this page whenever the bootstrap stage, next step, blocker, helper role, or re-entry route materially changes.
+Update this page whenever the bootstrap stage, source checkpoint, verification, uninspected material, next step, blocker, helper role, or re-entry route materially changes. A handoff being written does not establish that a later GPT retrieved, understood, or used it.
