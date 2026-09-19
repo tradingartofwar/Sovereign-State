@@ -32,9 +32,11 @@
 - AGENTS.md
 - state/BOOTSTRAP_STATE.md
 - state/CURRENT_STATE.md
+- state/INTAKE_ITEM_TEMPLATE.md
+- learning/SYSTEM_REVIEW_TEMPLATE.md
 - trajectories/TRAJECTORY_TEMPLATE.md
 - relationships/SHARED_REPRESENTATION_TEMPLATE.md
 
 保留路径和文件名，用中文填写内容。只写实际已确认的阶段；模板里的占位状态不是验证证据。保留已有 README 和其他工作，不把全部公开指南或他人状态复制进去。
 
-关系模板可以一直不用，它不授权分享，也不要求建立渠道。以后随着真实需要增加结构。医疗、组织、研究等专门工作的原始状态留在所属系统，这里只保留适当且不泄密的个人关联。
+新事项接收、系统复盘和关系模板都可以一直不用。复制它们是为了让私有说明中的链接有效；它们的存在不要求建立接收流程、例行复盘或关系渠道，也不授权分享。以后随着真实需要增加结构。医疗、组织、研究等专门工作的原始状态留在所属系统，这里只保留适当且不泄密的个人关联。
