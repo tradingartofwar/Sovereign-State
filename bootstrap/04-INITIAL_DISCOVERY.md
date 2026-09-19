@@ -41,3 +41,16 @@ Do not import every fact already available in a conversation or container. When 
 Initial discovery does not make the system mature. Before offering an advanced projection or connection, process at least one later update or correction to a living seed. This proves that the repository can carry changing reality rather than merely store intake answers.
 
 Update `state/CURRENT_STATE.md`, `state/BOOTSTRAP_STATE.md`, and `RESUME_HERE.md` after each established movement that changes orientation or the next resume point.
+
+## Ongoing consequential intake
+
+After bootstrap, use a minimal intake record when a new inquiry, request, case, responsibility, or dependency could be lost or distorted if its identity, stage, owner, or return remains implicit.
+
+Do not turn casual conversation, open exploration, or every new fact into intake. When an intake is warranted:
+
+1. record only a safe title or alias, source, current stage, evidence boundary, owner, next movement, return, and privacy boundary;
+2. distinguish arrival from acceptance of responsibility and from truth of the underlying claim;
+3. route the item to its owning trajectory, project, relationship, or protected system;
+4. merge, close, or park the intake once the owner is clear rather than maintaining a second competing copy.
+
+Use the [Consequential Intake Item template](../templates/private-sovereign-state/state/INTAKE_ITEM_TEMPLATE.md) when useful. The purpose is to prevent ambiguity and dropped responsibility, not to build a comprehensive inbox.
