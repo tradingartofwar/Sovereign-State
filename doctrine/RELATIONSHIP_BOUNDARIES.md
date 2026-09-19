@@ -50,6 +50,22 @@ Preserve the ladder:
 
 A message does not create agreement. A match does not create authorization. Receipt does not mean review. Review does not mean acceptance.
 
+For a consequential handoff, keep its transport and work stages explicit when they matter:
+
+> prepared → approved → published → retrieved → reviewed → responded to → accepted or declined → implemented → verified outcome
+
+Use only stages supported by the real process. A configured watcher or scheduled check is not proof of retrieval. A recipient's or agent's report is attributed evidence, not automatic independent confirmation of the owned result.
+
+## Agent-mediated handoffs
+
+A board, inbox, shared file, watcher, or routing service may move a bounded representation between agents. It does not become the canonical owner of the project merely because it carries the message.
+
+A useful agent handoff identifies the origin owner, intended recipient, purpose, owning source and checkpoint, intended result, current stage, open uncertainty or disagreement, and next evidence. The receiving agent acts only within its own authority and source access.
+
+Where the person has already authorized the bounded coordination and the necessary tools are available, GPT should perform routine posting, retrieval, and follow-through rather than make the person act as a message relay. Ask for human help only when judgment, authority, protected access, or an unavailable capability actually requires it.
+
+Do not automatically enroll every project or person in shared monitoring. A recurring coordination mechanism needs a concrete dependency, owner, source, permitted action, cadence or trigger, review point, and stopping condition.
+
 ## Calendar boundary
 
 Sharing one date, availability window, appointment, or request does not authorize whole-calendar access. Publish only the chosen calendar representation and its real meaning: appointment, deadline, plan, review date, routine, possibility, or availability.
