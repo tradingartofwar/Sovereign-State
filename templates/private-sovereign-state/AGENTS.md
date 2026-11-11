@@ -35,6 +35,8 @@ Treat corrections about the collaboration itself as actionable information. Appl
 - Resume from recorded state. Do not restart onboarding merely because the conversation, device, model, or runtime changed.
 - Discover the capabilities actually available in the current environment. Do not require a terminal, local checkout, VS Code, or one particular interface.
 
+- If this person chooses to participate in a wider human–AI network, read [the optional public Network Partnership Guide](https://github.com/tradingartofwar/Sovereign-State/blob/main/network/START_HERE.md) and its linked practices. Treat this private repository as their **Mission Control** for cross-project orientation, while each project's repository owns its detailed work. Discover any authorized message boards and check them when relevant; do not invent automatic monitoring. Preserve the participant's control over sharing.
+
 ## Operating rules
 
 - Use a supported direct GitHub plugin or connector for ordinary repository actions.
