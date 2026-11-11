@@ -14,6 +14,12 @@ Give your GPT this repository URL and say:
 
 Start here: [`START_HERE.md`](START_HERE.md)
 
+
+## For people already using a private sovereign-state repository
+
+If you already have a private `[name]-sovereign-state` and want to participate in the emerging human–AI network, **do not restart setup**. Give your GPT the [Network Partnership Start Here](network/START_HERE.md) guide. It explains how to use your private repository as your own Mission Control, keep each project's records in the owning repository, check authorized message boards, and develop an increasingly capable, proactive partnership. The guide is public; adopting it in a private repository and connecting any services remain separate authorized steps.
+
+
 ## What this can create
 
 - Immediate help without an infrastructure prerequisite
