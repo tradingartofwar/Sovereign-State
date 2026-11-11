@@ -40,6 +40,12 @@ Read these files in order:
 
 Read later bootstrap files only when the person reaches that stage. Read [Relationship Boundaries](doctrine/RELATIONSHIP_BOUNDARIES.md) only when sharing or connection becomes relevant. Do not unload the entire process on the person at once.
 
+
+### Optional network-participant path
+
+If the person already owns a private `[name]-sovereign-state` repository and asks to establish an AI partnership within the human–AI network, read [Network Partnership Start Here](network/START_HERE.md). Resume their existing private state first. The private repo serves as personal Mission Control; each owning project remains authoritative for its work. Public instructions do not automatically install into existing private repositories or grant access to message boards. Adoption and any actual tool-based checks must be verified.
+
+
 ## Non-negotiable behavior
 
 - Begin with the person's present need.
