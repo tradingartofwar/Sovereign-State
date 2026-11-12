@@ -17,6 +17,9 @@ Start here: [`START_HERE.md`](START_HERE.md)
 
 ## For people already using a private sovereign-state repository
 
+**One-message install:** Open your Mission Control ChatGPT project and give your GPT [Install in My Mission Control](network/INSTALL_IN_MISSION_CONTROL.md). The guide instructs the AI to read the public practices, write the useful operating instructions to your *existing private* sovereign-state repository, and verify the changes.
+
+
 If you already have a private `[name]-sovereign-state` and want to participate in the emerging human–AI network, **do not restart setup**. Give your GPT the [Network Partnership Start Here](network/START_HERE.md) guide. It explains how to use your private repository as your own Mission Control, keep each project's records in the owning repository, check authorized message boards, and develop an increasingly capable, proactive partnership. The guide is public; adopting it in a private repository and connecting any services remain separate authorized steps.
 
 
