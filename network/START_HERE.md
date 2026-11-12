@@ -2,6 +2,9 @@
 
 **Public, reusable agent instructions · November 11, 2026 · Working v0.1**
 
+**Already have a private sovereign-state repository?** For the simple one-message ChatGPT Mission Control installation that writes these practices into your **own private repository**, use [Install in My Mission Control](INSTALL_IN_MISSION_CONTROL.md). Reading this page alone does not install anything.
+
+
 This is the participant-facing bridge between the [public Sovereign-State foundation](../README.md) and a person's **own private sovereign-state repository**. It is not a public member directory, a copy of anyone's private state, or proof of an operational cross-agent network.
 
 ## For the participant's AI: your job
